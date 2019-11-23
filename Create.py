@@ -11,7 +11,6 @@ username = "GITHUB-USERNAME"
 password = "GITHUB-PASSWORD"
 
 RepoName = str(sys.argv[1])
-os.mkdir(path + str(sys.argv[1]))
 
 
 browser.find_element_by_xpath("//input[@id='login_field']").send_keys(username)
