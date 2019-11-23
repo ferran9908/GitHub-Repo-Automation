@@ -1,6 +1,6 @@
 # Automate Initializing a new Repository on GitHub
 
-I found it to be extremely tedious to repeat the same tasks over and over again to create and initialize a **new** repository.
+I found it extremely tedious to repeat the same tasks over and over again to create and initialize a **new** repository.
 
 To tackle this problem, I wrote a python script using Selenium to navigate through the GitHub page to create and initialize a new Repository for you.
 
